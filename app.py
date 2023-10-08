@@ -15,7 +15,7 @@ async def test():
     test = {
 	"cameras": [
 		{
-			"mac": "blabla",
+			"mac": "d8:36:5f:42:28:06",
 			"path": "pc1"
 		},
 		{
