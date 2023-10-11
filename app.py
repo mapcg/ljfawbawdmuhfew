@@ -15,7 +15,7 @@ async def test():
     test = {
 	"cameras": [
 		{
-			"mac": "d8:36:5f:42:28:06",
+			"mac": "/dev/video0",
 			"path": "pc1"
 		},
 		{
