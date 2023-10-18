@@ -15,12 +15,14 @@ async def test():
     test = {
 	"cameras": [
 		{
-			"mac": "/dev/video0",
-			"path": "pc1"
+			"mac": "none",
+			"path": "cam",
+			"type": "usb
 		},
 		{
-			"mac": "abcdef",
-			"path": "pc2"
+			"mac": "ab:cd:ef:12:34:56",
+			"path": "pc2",
+			"type": "rtsp"
 		}
 	]
 }
