@@ -17,11 +17,13 @@ async def test():
 		{
 			"mac": "none",
 			"path": "cam",
+			"source": "none",
 			"type": "usb"
 		},
 		{
 			"mac": "ab:cd:ef:12:34:56",
 			"path": "pc2",
+			"source": "rtsp://teste",
 			"type": "rtsp"
 		}
 	]
