@@ -17,7 +17,7 @@ async def test():
 		{
 			"mac": "none",
 			"path": "cam",
-			"type": "usb
+			"type": "usb"
 		},
 		{
 			"mac": "ab:cd:ef:12:34:56",
