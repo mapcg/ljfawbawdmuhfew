@@ -10,7 +10,7 @@ app = FastAPI()
 async def root():
     return {"message": "Hello World"}
 
-@app.get("/teste")
+@app.get("/e8dd115e87d2cc44f0e3f640138f6bff")
 async def test():
     test = {
 	"cameras": [
